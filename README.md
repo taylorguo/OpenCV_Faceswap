@@ -7,7 +7,11 @@ Using OpenCV3.x to faceswap
 ## 依赖安装
 python3.6
 
+```
 pip install -r requirements.txt
+```
+
+[Download dlib landmark model](https://pan.baidu.com/s/1Bbn7Zl57do969b76ui0OeA)
 
 ## 使用方法
 
