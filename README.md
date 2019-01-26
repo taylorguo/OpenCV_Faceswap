@@ -8,9 +8,9 @@ Using OpenCV3.x to faceswap
 - python3.6
 
 - 第三方库安装
-     ```
-      pip install -r requirements.txt
-     ```
+    ```
+   pip install -r requirements.txt
+    ```
 
 - Landmark 模型文件下载
   + [Download dlib landmark model](https://pan.baidu.com/s/1Bbn7Zl57do969b76ui0OeA)
