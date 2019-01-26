@@ -5,13 +5,17 @@ Using OpenCV3.x to faceswap
 使用OpenCV3.0 对图像人脸进行变脸
 
 ## 依赖安装
-python3.6
+- python3.6
 
+- 第三方库安装
 ```
 pip install -r requirements.txt
 ```
 
-[Download dlib landmark model](https://pan.baidu.com/s/1Bbn7Zl57do969b76ui0OeA)
+- Landmark 模型文件下载
+  + [Download dlib landmark model](https://pan.baidu.com/s/1Bbn7Zl57do969b76ui0OeA)
+  + [Github源下载](https://github.com/italojs/facial-landmarks-recognition-/blob/master/shape_predictor_68_face_landmarks.dat)
+
 
 ## 使用方法
 
