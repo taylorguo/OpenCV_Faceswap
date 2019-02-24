@@ -15,6 +15,7 @@ Using OpenCV3.x to faceswap
 - Landmark 模型文件下载
   + [Download dlib landmark model](https://pan.baidu.com/s/1Bbn7Zl57do969b76ui0OeA)
   + [Github源下载](https://github.com/italojs/facial-landmarks-recognition-/blob/master/shape_predictor_68_face_landmarks.dat)
+  + [shape_predictor_68_face_landmarks.dat](https://github.com/italojs/facial-landmarks-recognition-/blob/master/shape_predictor_68_face_landmarks.dat)
 
 
 ## 使用方法
