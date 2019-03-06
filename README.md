@@ -32,3 +32,8 @@ python faceswap_cv.py ./samples/fbb_001.jpeg ./samples/trump_smile.jpg
 
 ## 结果展示
 ![](samples/sample.jpg)
+
+
+## Others 
+
+[Dlib的安装与使用](https://my.oschina.net/u/3027864/blog/2089168)
